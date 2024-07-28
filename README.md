@@ -14,7 +14,7 @@ As a fresher Full Stack Developer, I am eager to bring my skills and enthusiasm 
 <p align="left">
 <a href="https://linkedin.com/in/ashish-gunaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-gunaki" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ashishgunaki5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashishgunaki5" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/ashish_gunak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashish_gunak" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/ashish_gunaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashish_gunaki" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
